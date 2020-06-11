@@ -33,39 +33,38 @@ align-items: center;
 
 @media (max-width: 574px) {
   h1{font-size: 2rem;
-     text-align: center;}
+     }
 }
 
 @media (min-width: 575px) {
   h1{font-size: 1.5rem;
-    text-align: left;}
+   }
 }
 
 @media (min-width: 734px) {
   h1{font-size: 2rem;
-    text-align: left;}
+    }
 }
 
 @media (min-width: 992px) {
   h1{font-size: 2.75rem;
-    text-align: left;}
+    }
 }
 
 @media (min-width: 1081px) {
   h1{font-size: 3rem;
-    text-align: left;}
+    }
 }
 
 
 .hero-section {
-  text-align: right;
   background-image: url('../img/Hero_img.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   color: #ffffff;
   text-shadow: 0.125em 0.25em 0.125em #707070;
-  padding: 6.25rem 3.125rem;
+  padding: 20.25rem 3.125rem;
   width: 100vw;
   height: 100vh;
 
